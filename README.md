@@ -1,7 +1,7 @@
 # polynmial_degree
 function that given an array of elements decides what's the lowest possible degree of a polynomial 
 
-##Minimalny stopień wielomianu
+## Minimalny stopień wielomianu
 
 Zaimplementuj w asemblerze funkcję polynomial_degree wołaną z języka C o sygnaturze:
 
